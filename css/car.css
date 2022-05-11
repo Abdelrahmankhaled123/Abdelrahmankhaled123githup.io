@@ -171,7 +171,17 @@ p{
     margin: 50px auto;
     width: 100%;
 }
-
+.footer button {
+  border: 1px solid WHITE;
+  font-size: 40px;
+  background-color: rgb(158 158 158 / 78%);
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  position: relative;
+  left: 47%;
+  margin-bottom: 100px;
+}
 footer {
 background-color: #777; 
 padding-top: 20px;
