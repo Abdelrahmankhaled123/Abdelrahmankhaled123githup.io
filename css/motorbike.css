@@ -171,19 +171,7 @@ p{
     margin: 50px auto;
     width: 100%;
 }
-.footer {
-    text-align: center;
-    font-size: 50px;
-    padding: 20px;
-    background-color: black;
-    width: fit-content;
-    color: white;
-    margin: 20px auto;
-    border-radius: 15px;
-    font-weight: 800;
-    cursor: pointer;
-    margin-bottom: 150px;
-}
+
 footer {
 background-color: #777; 
 padding-top: 20px;
@@ -203,5 +191,21 @@ footer .container i {
 footer .container .fp {
     font-size: 50px;
     font-weight: bold;
+}
+#start {
+  color: #777;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+button {
+  left: 40%;
+  border: 1px solid WHITE;
+  font-size: 40px;
+  background-color: rgb(158 158 158 / 78%);
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+  position: relative;
 }
 
